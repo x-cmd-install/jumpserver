@@ -1,0 +1,61 @@
+about:
+  description: JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+  license: GPL-3.0
+  homepage: https://jumpserver.com
+  head: 8c8eaf3
+  archived: false
+  latestVersion: v3.10.23
+  collectedAt: 2026-08-29T07:20:56Z
+timeline:
+  created: 2014-07-04
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-24
+popularity:
+  star: 31468
+  watcher: 652
+  fork: 5772
+  release: 269
+  contributor: 135
+  pullRequest: 1141
+  issue: 7901
+language:
+  Python: 5586878
+  CSS: 223078
+  Shell: 13303
+  Go: 6879
+  Java: 3793
+  Dockerfile: 2374
+totalLine: 5836305
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 128
+    openPR: 15
+    closedIssue: 37
+    openIssue: 34
+    commit: 187
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 274
+    openPR: 17
+    closedIssue: 111
+    openIssue: 46
+    commit: 494
+  last180d:
+    since: 2026-03-02
+    release: 6
+    mergedPR: 332
+    openPR: 19
+    closedIssue: 215
+    openIssue: 53
+    commit: 825
+  last360d:
+    since: 2025-09-03
+    release: 17
+    mergedPR: 612
+    openPR: 22
+    closedIssue: 510
+    openIssue: 59
+    commit: 1147
