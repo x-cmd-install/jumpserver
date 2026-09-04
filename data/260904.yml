@@ -7,7 +7,7 @@ about:
   head: 7f1ab17
   archived: false
   latestVersion: v3.10.23
-  collectedAt: 2026-09-04T19:58:13Z
+  collectedAt: 2026-09-04T20:47:20Z
 timeline:
   created: 2014-07-04
   lastCommit: 2026-09-04
@@ -85,6 +85,104 @@ total:
   openIssue: 67
   commit: 13607
 ---
+path: /home/runner/.x-repo/github.com/jumpserver/jumpserver
+collectedAt: 2026-09-04T20:47:27Z
+loc:
+  Python:
+    code: 101231
+    comments: 2581
+    blanks: 19373
+    files: 1414
+  JavaScript:
+    code: 21085
+    comments: 2364
+    blanks: 2044
+    files: 50
+  Css:
+    code: 13071
+    comments: 458
+    blanks: 2427
+    files: 19
+  Yaml:
+    code: 7493
+    comments: 383
+    blanks: 530
+    files: 137
+  Html:
+    code: 3136
+    comments: 5
+    blanks: 288
+    files: 81
+  Svg:
+    code: 2992
+    comments: 3
+    blanks: 15
+    files: 5
+  Sh:
+    code: 363
+    comments: 63
+    blanks: 91
+    files: 27
+  Go:
+    code: 242
+    comments: 0
+    blanks: 39
+    files: 2
+  Toml:
+    code: 205
+    comments: 0
+    blanks: 9
+    files: 1
+  Xml:
+    code: 83
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 67
+    comments: 0
+    blanks: 0
+    files: 2
+  Java:
+    code: 59
+    comments: 8
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 55
+    comments: 0
+    blanks: 17
+    files: 1
+  Sql:
+    code: 34
+    comments: 12
+    blanks: 7
+    files: 1
+  ForgeConfig:
+    code: 24
+    comments: 1
+    blanks: 1
+    files: 2
+  Bitbake:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2266
+    blanks: 1057
+    files: 68
+  Text:
+    code: 0
+    comments: 86
+    blanks: 16
+    files: 10
+total:
+  code: 154359
+  comments: 8337
+  blanks: 26427
+  files: 1824
 ---
 date: "2026-08-24"
 repo:
