@@ -5,13 +5,13 @@ about:
   head: efa6c0a
   archived: false
   latestVersion: "v3.10.23"
-  collectedAt: 2026-09-08T02:12:27Z
+  collectedAt: 2026-09-08T04:49:15Z
 timeline:
   created: 2014-07-04
   lastCommit: 2026-09-08
   lastRelease: 2026-08-24
 popularity:
-  star: 31505
+  star: 31506
   watcher: 657
   fork: 5779
   release: 269
@@ -32,59 +32,59 @@ recent:
     release: 2
     mergedPR: 115
     openPR: 12
-    closedIssue: 38
-    openIssue: 31
+    closedIssue: 39
+    openIssue: 30
     commit: 107
   last60d:
     since: 2026-07-10
     release: 5
     mergedPR: 231
     openPR: 16
-    closedIssue: 82
-    openIssue: 44
+    closedIssue: 83
+    openIssue: 43
     commit: 322
   last90d:
     since: 2026-06-10
     release: 5
     mergedPR: 278
     openPR: 17
-    closedIssue: 116
-    openIssue: 50
+    closedIssue: 117
+    openIssue: 49
     commit: 470
   last180d:
     since: 2026-03-12
     release: 5
     mergedPR: 345
     openPR: 18
-    closedIssue: 218
-    openIssue: 58
+    closedIssue: 219
+    openIssue: 57
     commit: 821
   last360d:
     since: 2025-09-13
     release: 16
     mergedPR: 613
     openPR: 20
-    closedIssue: 509
-    openIssue: 62
+    closedIssue: 510
+    openIssue: 61
     commit: 1134
   last720d:
     since: 2024-09-18
     release: 41
     mergedPR: 1596
     openPR: 21
-    closedIssue: 1226
-    openIssue: 67
+    closedIssue: 1227
+    openIssue: 66
     commit: 1952
 total:
   release: 269
   mergedPR: 8226
   openPR: 21
-  closedIssue: 7855
-  openIssue: 67
+  closedIssue: 7856
+  openIssue: 66
   commit: 13614
 ---
 path: /home/runner/.x-repo/github.com/jumpserver/jumpserver
-collectedAt: 2026-09-08T02:12:41Z
+collectedAt: 2026-09-08T04:49:33Z
 loc:
   Python:
     code: 103180
