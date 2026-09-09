@@ -2,12 +2,12 @@ about:
   description: "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser."
   license: GPL-3.0
   homepage: https://jumpserver.com
-  head: d7d04d0
+  head: ec87160
   archived: false
   latestVersion: "v3.10.23"
   latestRelease: "v3.10.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:05:24Z
+  collectedAt: 2026-09-09T18:59:57Z
 timeline:
   created: 2014-07-04
   lastCommit: 2026-09-09
@@ -15,86 +15,86 @@ timeline:
   lastRelease: 2026-08-24
   lastPrerelease: 
 popularity:
-  star: 31511
+  star: 31513
   watcher: 657
   fork: 5781
   release: 269
   contributor: 121
-  pullRequest: 9384
-  issue: 7923
+  pullRequest: 9391
+  issue: 7929
 language:
-  Python: 5514227
+  Python: 5653953
   CSS: 223078
   Shell: 13303
   Go: 6879
   Java: 3793
   Dockerfile: 2334
-totalBytes: 5763614
+totalBytes: 5903340
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 115
+    mergedPR: 122
     openPR: 11
     closedIssue: 37
-    openIssue: 30
-    commit: 126
+    openIssue: 36
+    commit: 134
   last60d:
     since: 2026-07-11
     release: 5
-    mergedPR: 245
+    mergedPR: 252
     openPR: 15
     closedIssue: 83
-    openIssue: 44
-    commit: 341
+    openIssue: 50
+    commit: 349
   last90d:
     since: 2026-06-11
     release: 5
-    mergedPR: 289
+    mergedPR: 296
     openPR: 16
     closedIssue: 116
-    openIssue: 50
-    commit: 489
+    openIssue: 56
+    commit: 497
   last180d:
     since: 2026-03-13
     release: 5
-    mergedPR: 359
+    mergedPR: 366
     openPR: 17
     closedIssue: 218
-    openIssue: 58
-    commit: 840
+    openIssue: 64
+    commit: 848
   last360d:
     since: 2025-09-14
     release: 16
-    mergedPR: 627
+    mergedPR: 634
     openPR: 19
     closedIssue: 509
-    openIssue: 62
-    commit: 1151
+    openIssue: 68
+    commit: 1159
   last720d:
     since: 2024-09-19
     release: 41
-    mergedPR: 1597
+    mergedPR: 1604
     openPR: 20
     closedIssue: 1225
-    openIssue: 67
-    commit: 1964
+    openIssue: 73
+    commit: 1970
 total:
   release: 269
-  mergedPR: 8240
+  mergedPR: 8247
   openPR: 20
   closedIssue: 7856
-  openIssue: 67
-  commit: 13630
+  openIssue: 73
+  commit: 13636
 ---
 path: /home/runner/.x-repo/github.com/jumpserver/jumpserver
-collectedAt: 2026-09-09T05:05:42Z
+collectedAt: 2026-09-09T19:00:14Z
 loc:
   Python:
-    code: 104956
-    comments: 2613
-    blanks: 19698
-    files: 1434
+    code: 107595
+    comments: 2660
+    blanks: 20036
+    files: 1439
   JavaScript:
     code: 21085
     comments: 2364
@@ -106,10 +106,10 @@ loc:
     blanks: 2427
     files: 19
   Yaml:
-    code: 7402
+    code: 7800
     comments: 389
-    blanks: 531
-    files: 139
+    blanks: 591
+    files: 141
   Html:
     code: 3136
     comments: 5
@@ -181,10 +181,10 @@ loc:
     blanks: 16
     files: 10
 total:
-  code: 157995
-  comments: 8383
-  blanks: 26760
-  files: 1847
+  code: 161032
+  comments: 8430
+  blanks: 27158
+  files: 1854
 ---
 date: "2026-09-07"
 repo:
