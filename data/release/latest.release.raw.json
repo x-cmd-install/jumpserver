@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2050,
       "digest": "sha256:2d3f720a160fd60d83f279f272474c304b172c82880b171405b5707987ef8d91",
-      "download_count": 251,
+      "download_count": 256,
       "created_at": "2026-08-20T12:51:20Z",
       "updated_at": "2026-08-20T12:51:20Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/cn-quick_start.sh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4434070,
       "digest": "sha256:8ba06eda996947814da72c7b007d5fb808f2a7b398b07f2a4e68f2b65d8b60f7",
-      "download_count": 407,
+      "download_count": 415,
       "created_at": "2026-08-20T12:50:57Z",
       "updated_at": "2026-08-20T12:50:57Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/jumpserver-v4.10.19.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 32,
       "digest": "sha256:0b126a01d909f32daa1ad746f9d64243e47553649d69ef966b3dadc18bdcd936",
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2026-08-20T12:50:58Z",
       "updated_at": "2026-08-20T12:50:58Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/jumpserver-v4.10.19.tar.gz.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1929,
       "digest": "sha256:aef659901945c4a2536c791c0c2d6b1692dba433ae8fdc089b9a5e025a9c8072",
-      "download_count": 2351,
+      "download_count": 2456,
       "created_at": "2026-08-20T12:51:18Z",
       "updated_at": "2026-08-20T12:51:18Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/quick_start.sh"
