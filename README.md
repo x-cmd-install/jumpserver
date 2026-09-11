@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,519 · **Forks**: 5,781 · **Open issues**: 7,935 · **Contributors**: 121
+- **Stars**: 31,523 · **Forks**: 5,781 · **Open issues**: 7,938 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 269 · **Merged PRs**: 8257 · **Open PRs**: 21 · **Closed issues**: 7859 · **Open issues**: 76 · **Commits**: 13649
+- **Releases**: 269 · **Merged PRs**: 8259 · **Open PRs**: 23 · **Closed issues**: 7860 · **Open issues**: 78 · **Commits**: 13651
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 113 | 11 | 37 | 35 | 148 |
-| last60d | 2026-07-13 | 5 | 252 | 16 | 85 | 52 | 363 |
-| 90d | 2026-06-13 | 5 | 305 | 17 | 118 | 59 | 511 |
-| last180d | 2026-03-15 | 5 | 376 | 18 | 221 | 67 | 862 |
-| 360d | 2025-09-16 | 16 | 626 | 20 | 507 | 71 | 1173 |
-| last720d | 2024-09-21 | 40 | 1611 | 21 | 1222 | 76 | 1968 |
+| 30d | 2026-08-12 | 2 | 115 | 11 | 38 | 36 | 152 |
+| last60d | 2026-07-13 | 5 | 254 | 16 | 86 | 53 | 367 |
+| 90d | 2026-06-13 | 5 | 307 | 17 | 119 | 60 | 515 |
+| last180d | 2026-03-15 | 5 | 378 | 20 | 222 | 69 | 866 |
+| 360d | 2025-09-16 | 16 | 628 | 22 | 508 | 73 | 1177 |
+| last720d | 2024-09-21 | 40 | 1613 | 23 | 1223 | 78 | 1970 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:57:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:13:44Z._
