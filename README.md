@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,523 · **Forks**: 5,781 · **Open issues**: 7,938 · **Contributors**: 121
+- **Stars**: 31,523 · **Forks**: 5,782 · **Open issues**: 7,938 · **Contributors**: 121
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 115 | 11 | 38 | 36 | 152 |
-| last60d | 2026-07-13 | 5 | 254 | 16 | 86 | 53 | 367 |
-| 90d | 2026-06-13 | 5 | 307 | 17 | 119 | 60 | 515 |
-| last180d | 2026-03-15 | 5 | 378 | 20 | 222 | 69 | 866 |
-| 360d | 2025-09-16 | 16 | 628 | 22 | 508 | 73 | 1177 |
-| last720d | 2024-09-21 | 40 | 1613 | 23 | 1223 | 78 | 1970 |
+| 30d | 2026-08-13 | 2 | 111 | 10 | 36 | 35 | 152 |
+| last60d | 2026-07-14 | 5 | 248 | 16 | 83 | 53 | 367 |
+| 90d | 2026-06-14 | 5 | 307 | 17 | 118 | 60 | 515 |
+| last180d | 2026-03-16 | 5 | 378 | 20 | 221 | 69 | 866 |
+| 360d | 2025-09-17 | 16 | 624 | 22 | 507 | 73 | 1177 |
+| last720d | 2024-09-22 | 40 | 1613 | 23 | 1222 | 78 | 1970 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:13:44Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:49:11Z._
