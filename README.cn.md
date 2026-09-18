@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 
 ![jumpserver](https://repo.x-cmd.io/jumpserver.svg?lang=zh)
 
@@ -14,11 +14,11 @@ x install jumpserver
 
 ## 代码洞察
 
-合计: **158,775** 行代码（覆盖前 5 种语言、共 **1741** 个文件）。
+合计: **158,857** 行代码（覆盖前 5 种语言、共 **1743** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 109,268 | 2,687 | 20,288 | 1448 |
+| Python | 109,350 | 2,687 | 20,310 | 1450 |
 | JavaScript | 21,085 | 2,364 | 2,044 | 50 |
 | Css | 13,289 | 458 | 2,430 | 20 |
 | Yaml | 7,804 | 471 | 592 | 142 |
@@ -42,37 +42,37 @@ x install jumpserver
 
 ## 发布
 
-- **最新版本**: `v3.10.23` (2026-08-24)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v5.0.0` (2026-09-17)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 31,540 · **Fork**: 5,790 · **开放 issue**: 7,945 · **贡献者**: 122
+- **Star**: 31,554 · **Fork**: 5,791 · **开放 issue**: 7,951 · **贡献者**: 122
 
 ## 累计统计
 
-- **发布数**: 269 · **已合并 PR**: 8288 · **开放 PR**: 25 · **已关闭 issue**: 7864 · **开放 issue**: 81 · **提交数**: 13697
+- **发布数**: 270 · **已合并 PR**: 8301 · **开放 PR**: 21 · **已关闭 issue**: 7867 · **开放 issue**: 84 · **提交数**: 13714
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 123 | 10 | 39 | 37 | 165 |
-| last60d | 2026-07-19 | 4 | 261 | 18 | 82 | 56 | 374 |
-| 90d | 2026-06-19 | 5 | 333 | 18 | 119 | 63 | 537 |
-| last180d | 2026-03-21 | 5 | 407 | 22 | 221 | 71 | 893 |
-| 360d | 2025-09-22 | 15 | 649 | 24 | 506 | 76 | 1220 |
-| last720d | 2024-09-27 | 40 | 1632 | 25 | 1211 | 81 | 2012 |
+| 30d | 2026-08-19 | 3 | 130 | 9 | 38 | 40 | 183 |
+| last60d | 2026-07-20 | 5 | 274 | 15 | 83 | 59 | 392 |
+| 90d | 2026-06-20 | 6 | 346 | 15 | 122 | 65 | 555 |
+| last180d | 2026-03-22 | 6 | 420 | 19 | 224 | 74 | 911 |
+| 360d | 2025-09-23 | 16 | 662 | 20 | 509 | 79 | 1238 |
+| last720d | 2024-09-28 | 41 | 1645 | 21 | 1212 | 84 | 2020 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/cn-quick_start.sh) | 2.0 KiB | `other` |
-| [jumpserver-v4.10.19.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/jumpserver-v4.10.19.tar.gz) | 4.2 MiB | `native/unknown` |
-| [jumpserver-v4.10.19.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/jumpserver-v4.10.19.tar.gz.md5) | 32 B | `other` |
-| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v4.10.19/quick_start.sh) | 1.9 KiB | `other` |
+| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.0.0/cn-quick_start.sh) | 2.5 KiB | `other` |
+| [jumpserver-v5.0.0.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v5.0.0/jumpserver-v5.0.0.tar.gz) | 4.1 MiB | `native/unknown` |
+| [jumpserver-v5.0.0.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v5.0.0/jumpserver-v5.0.0.tar.gz.md5) | 32 B | `other` |
+| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.0.0/quick_start.sh) | 2.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ jumpserver 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T05:14:39Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T05:00:29Z._
