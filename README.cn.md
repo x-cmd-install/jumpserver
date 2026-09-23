@@ -4,7 +4,7 @@
 
 JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 
-[![x-cmd/install — jumpserver Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jumpserver.svg?lang=zh)](https://x-cmd.com/install/jumpserver)
+[![x-cmd/install — jumpserver Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jumpserver.svg?lang=zh)](https://x-cmd.com/install/jumpserver)
 
 ## 安装
 
@@ -14,19 +14,19 @@ x install jumpserver
 
 ## 代码洞察
 
-合计: **160,175** 行代码（覆盖前 5 种语言、共 **1746** 个文件）。
+合计: **160,753** 行代码（覆盖前 5 种语言、共 **1752** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 110,927 | 2,704 | 20,466 | 1457 |
+| Python | 111,505 | 2,712 | 20,553 | 1463 |
 | JavaScript | 21,003 | 2,346 | 2,027 | 48 |
 | Css | 13,289 | 458 | 2,430 | 20 |
-| Yaml | 7,751 | 471 | 591 | 139 |
+| Yaml | 7,751 | 480 | 591 | 139 |
 | Html | 3,220 | 5 | 292 | 82 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.9 / 10**
+总评分: **6.3 / 10**
 
 评分最低的几项:
 
@@ -43,27 +43,27 @@ x install jumpserver
 ## 发布
 
 - **最新版本**: `v5.0.0` (2026-09-17)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 31,584 · **Fork**: 5,798 · **开放 issue**: 7,982 · **贡献者**: 123
+- **Star**: 31,587 · **Fork**: 5,802 · **开放 issue**: 7,984 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 270 · **已合并 PR**: 8335 · **开放 PR**: 17 · **已关闭 issue**: 7910 · **开放 issue**: 72 · **提交数**: 13769
+- **发布数**: 270 · **已合并 PR**: 8351 · **开放 PR**: 15 · **已关闭 issue**: 7915 · **开放 issue**: 69 · **提交数**: 13783
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 152 | 9 | 69 | 34 | 206 |
-| last60d | 2026-07-24 | 5 | 279 | 12 | 109 | 49 | 397 |
-| 90d | 2026-06-24 | 6 | 378 | 12 | 154 | 56 | 587 |
-| last180d | 2026-03-26 | 6 | 448 | 16 | 259 | 63 | 939 |
-| 360d | 2025-09-27 | 15 | 693 | 16 | 531 | 69 | 1294 |
-| last720d | 2024-10-02 | 41 | 1677 | 17 | 1245 | 72 | 2074 |
+| 30d | 2026-08-24 | 2 | 162 | 7 | 69 | 29 | 222 |
+| last60d | 2026-07-25 | 4 | 295 | 10 | 114 | 46 | 413 |
+| 90d | 2026-06-25 | 6 | 391 | 10 | 157 | 53 | 603 |
+| last180d | 2026-03-27 | 6 | 463 | 14 | 263 | 60 | 955 |
+| 360d | 2025-09-28 | 15 | 708 | 14 | 535 | 66 | 1310 |
+| last720d | 2024-10-03 | 41 | 1693 | 15 | 1250 | 69 | 2088 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ jumpserver 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:08:23Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:30:52Z._

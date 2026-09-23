@@ -4,7 +4,7 @@
 
 JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
 
-[![x-cmd/install — jumpserver Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jumpserver.svg)](https://x-cmd.com/install/jumpserver)
+[![x-cmd/install — jumpserver Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jumpserver.svg)](https://x-cmd.com/install/jumpserver)
 
 ## Install
 
@@ -14,19 +14,19 @@ x install jumpserver
 
 ## Code insight
 
-Total: **160,175** lines of code across **1746** files in the top 5 languages.
+Total: **160,753** lines of code across **1752** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 110,927 | 2,704 | 20,466 | 1457 |
+| Python | 111,505 | 2,712 | 20,553 | 1463 |
 | JavaScript | 21,003 | 2,346 | 2,027 | 48 |
 | Css | 13,289 | 458 | 2,430 | 20 |
-| Yaml | 7,751 | 471 | 591 | 139 |
+| Yaml | 7,751 | 480 | 591 | 139 |
 | Html | 3,220 | 5 | 292 | 82 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.0.0` (2026-09-17)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 31,584 · **Forks**: 5,798 · **Open issues**: 7,982 · **Contributors**: 123
+- **Stars**: 31,587 · **Forks**: 5,802 · **Open issues**: 7,984 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 270 · **Merged PRs**: 8335 · **Open PRs**: 17 · **Closed issues**: 7910 · **Open issues**: 72 · **Commits**: 13769
+- **Releases**: 270 · **Merged PRs**: 8351 · **Open PRs**: 15 · **Closed issues**: 7915 · **Open issues**: 69 · **Commits**: 13783
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 152 | 9 | 69 | 34 | 206 |
-| last60d | 2026-07-24 | 5 | 279 | 12 | 109 | 49 | 397 |
-| 90d | 2026-06-24 | 6 | 378 | 12 | 154 | 56 | 587 |
-| last180d | 2026-03-26 | 6 | 448 | 16 | 259 | 63 | 939 |
-| 360d | 2025-09-27 | 15 | 693 | 16 | 531 | 69 | 1294 |
-| last720d | 2024-10-02 | 41 | 1677 | 17 | 1245 | 72 | 2074 |
+| 30d | 2026-08-24 | 2 | 162 | 7 | 69 | 29 | 222 |
+| last60d | 2026-07-25 | 4 | 295 | 10 | 114 | 46 | 413 |
+| 90d | 2026-06-25 | 6 | 391 | 10 | 157 | 53 | 603 |
+| last180d | 2026-03-27 | 6 | 463 | 14 | 263 | 60 | 955 |
+| 360d | 2025-09-28 | 15 | 708 | 14 | 535 | 66 | 1310 |
+| last720d | 2024-10-03 | 41 | 1693 | 15 | 1250 | 69 | 2088 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:30:52Z._
