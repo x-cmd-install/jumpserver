@@ -14,11 +14,11 @@ x install jumpserver
 
 ## Code insight
 
-Total: **167,165** lines of code across **1798** files in the top 5 languages.
+Total: **167,285** lines of code across **1798** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 117,754 | 2,842 | 21,329 | 1505 |
+| Python | 117,874 | 2,850 | 21,358 | 1505 |
 | JavaScript | 21,003 | 2,346 | 2,027 | 48 |
 | Css | 13,289 | 458 | 2,430 | 20 |
 | Yaml | 7,777 | 522 | 612 | 140 |
@@ -42,37 +42,37 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.1.0` (2026-10-15)
-- **Last commit**: 2026-10-19
+- **Latest**: `v5.1.1` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 31,803 · **Forks**: 5,810 · **Open issues**: 8,033 · **Contributors**: 126
+- **Stars**: 31,804 · **Forks**: 5,811 · **Open issues**: 8,043 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 271 · **Merged PRs**: 8484 · **Open PRs**: 8 · **Closed issues**: 7985 · **Open issues**: 48 · **Commits**: 13951
+- **Releases**: 272 · **Merged PRs**: 8488 · **Open PRs**: 12 · **Closed issues**: 7991 · **Open issues**: 52 · **Commits**: 13953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 158 | 2 | 53 | 12 | 184 |
-| last60d | 2026-08-21 | 3 | 298 | 6 | 128 | 28 | 440 |
-| 90d | 2026-07-22 | 6 | 440 | 6 | 183 | 35 | 635 |
-| last180d | 2026-04-23 | 7 | 576 | 6 | 292 | 42 | 1034 |
-| 360d | 2025-10-25 | 13 | 783 | 7 | 558 | 45 | 1444 |
-| last720d | 2024-10-30 | 40 | 1774 | 8 | 1255 | 48 | 2211 |
+| 30d | 2026-09-21 | 2 | 148 | 6 | 48 | 17 | 186 |
+| last60d | 2026-08-22 | 4 | 302 | 10 | 134 | 32 | 442 |
+| 90d | 2026-07-23 | 7 | 435 | 10 | 186 | 39 | 637 |
+| last180d | 2026-04-24 | 8 | 580 | 10 | 296 | 46 | 1036 |
+| 360d | 2025-10-26 | 14 | 787 | 11 | 564 | 49 | 1446 |
+| last720d | 2024-10-31 | 41 | 1777 | 12 | 1259 | 52 | 2212 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.0/cn-quick_start.sh) | 2.5 KiB | `other` |
-| [jumpserver-v5.1.0.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v5.1.0/jumpserver-v5.1.0.tar.gz) | 7.9 MiB | `native/unknown` |
-| [jumpserver-v5.1.0.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v5.1.0/jumpserver-v5.1.0.tar.gz.md5) | 32 B | `other` |
-| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.0/quick_start.sh) | 2.4 KiB | `other` |
+| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/cn-quick_start.sh) | 2.5 KiB | `other` |
+| [jumpserver-v5.1.1.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz) | 7.9 MiB | `native/unknown` |
+| [jumpserver-v5.1.1.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz.md5) | 32 B | `other` |
+| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/quick_start.sh) | 2.4 KiB | `other` |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:03:28Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:53:41Z._
