@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2602,
       "digest": "sha256:b9330cdb8749f85b777a92baf00f58c0d9a3396cefac8ddefc3f055f61dee346",
-      "download_count": 90,
+      "download_count": 99,
       "created_at": "2026-10-20T10:58:48Z",
       "updated_at": "2026-10-20T10:58:48Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/cn-quick_start.sh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8304016,
       "digest": "sha256:231dfe9b61199cef45df8e7c721eb4e3adc13b0accc84fe172e6e1ffbb0c317c",
-      "download_count": 99,
+      "download_count": 111,
       "created_at": "2026-10-20T10:17:51Z",
       "updated_at": "2026-10-20T10:17:52Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 32,
       "digest": "sha256:05923f04b5e72ccabbcfa2b5c07319154d568956437d35459cf6c8e19cdad40d",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-10-20T10:17:52Z",
       "updated_at": "2026-10-20T10:17:52Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2473,
       "digest": "sha256:d69dd74d95d5998bac34a240e13130becd931bc687dfb1fb45830bc0e4cd1e15",
-      "download_count": 641,
+      "download_count": 708,
       "created_at": "2026-10-20T10:58:46Z",
       "updated_at": "2026-10-20T10:58:46Z",
       "browser_download_url": "https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/quick_start.sh"
