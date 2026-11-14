@@ -14,11 +14,11 @@ x install jumpserver
 
 ## Code insight
 
-Total: **206,196** lines of code across **1991** files in the top 5 languages.
+Total: **206,219** lines of code across **1991** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 156,947 | 3,435 | 25,685 | 1777 |
+| Python | 156,970 | 3,437 | 25,689 | 1777 |
 | JavaScript | 21,046 | 2,346 | 2,022 | 48 |
 | Css | 13,571 | 458 | 2,430 | 21 |
 | Yaml | 7,794 | 540 | 606 | 139 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,955 · **Forks**: 5,823 · **Open issues**: 8,112 · **Contributors**: 130
+- **Stars**: 31,961 · **Forks**: 5,822 · **Open issues**: 8,115 · **Contributors**: 130
 
 ## Totals (cumulative)
 
-- **Releases**: 274 · **Merged PRs**: 8635 · **Open PRs**: 10 · **Closed issues**: 8076 · **Open issues**: 36 · **Commits**: 14121
+- **Releases**: 274 · **Merged PRs**: 8636 · **Open PRs**: 11 · **Closed issues**: 8076 · **Open issues**: 39 · **Commits**: 14122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 193 | 8 | 71 | 18 | 258 |
-| last60d | 2026-09-14 | 5 | 361 | 10 | 153 | 20 | 528 |
-| 90d | 2026-08-15 | 7 | 477 | 10 | 220 | 24 | 705 |
-| last180d | 2026-05-17 | 10 | 713 | 10 | 351 | 31 | 1176 |
-| 360d | 2025-11-18 | 14 | 895 | 10 | 604 | 33 | 1616 |
-| last720d | 2024-11-23 | 41 | 1849 | 10 | 1291 | 36 | 2310 |
+| 30d | 2026-10-15 | 4 | 181 | 9 | 69 | 21 | 259 |
+| last60d | 2026-09-15 | 5 | 352 | 10 | 152 | 22 | 529 |
+| 90d | 2026-08-16 | 7 | 478 | 11 | 220 | 27 | 706 |
+| last180d | 2026-05-18 | 10 | 714 | 11 | 350 | 34 | 1177 |
+| 360d | 2025-11-19 | 14 | 890 | 11 | 604 | 36 | 1617 |
+| last720d | 2024-11-24 | 41 | 1850 | 11 | 1289 | 39 | 2311 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:56:32Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:49:31Z._
