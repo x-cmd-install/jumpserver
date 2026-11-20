@@ -14,11 +14,11 @@ x install jumpserver
 
 ## 代码洞察
 
-合计: **210,048** 行代码（覆盖前 5 种语言、共 **2026** 个文件）。
+合计: **210,401** 行代码（覆盖前 5 种语言、共 **2028** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 160,474 | 3,502 | 26,010 | 1798 |
+| Python | 160,827 | 3,506 | 26,060 | 1800 |
 | JavaScript | 21,046 | 2,346 | 2,022 | 48 |
 | Css | 13,571 | 458 | 2,430 | 21 |
 | Yaml | 8,115 | 540 | 614 | 153 |
@@ -42,37 +42,37 @@ x install jumpserver
 
 ## 发布
 
-- **最新版本**: `v3.10.24` (2026-10-27)
-- **最近提交**: 2026-11-19
+- **最新版本**: `v5.2.0` (2026-11-19)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 31,990 · **Fork**: 5,822 · **开放 issue**: 8,143 · **贡献者**: 130
+- **Star**: 31,991 · **Fork**: 5,824 · **开放 issue**: 8,150 · **贡献者**: 130
 
 ## 累计统计
 
-- **发布数**: 275 · **已合并 PR**: 8671 · **开放 PR**: 10 · **已关闭 issue**: 8113 · **开放 issue**: 30 · **提交数**: 14167
+- **发布数**: 276 · **已合并 PR**: 8677 · **开放 PR**: 10 · **已关闭 issue**: 8122 · **开放 issue**: 28 · **提交数**: 14170
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 177 | 8 | 80 | 21 | 247 |
-| last60d | 2026-09-20 | 5 | 344 | 8 | 151 | 23 | 473 |
-| 90d | 2026-08-21 | 7 | 485 | 10 | 242 | 23 | 722 |
-| last180d | 2026-05-23 | 11 | 744 | 10 | 381 | 27 | 1206 |
-| 360d | 2025-11-24 | 14 | 915 | 10 | 629 | 28 | 1653 |
-| last720d | 2024-11-29 | 40 | 1873 | 10 | 1313 | 30 | 2350 |
+| 30d | 2026-10-21 | 4 | 175 | 7 | 85 | 19 | 252 |
+| last60d | 2026-09-21 | 6 | 336 | 8 | 150 | 21 | 478 |
+| 90d | 2026-08-22 | 8 | 491 | 10 | 251 | 21 | 727 |
+| last180d | 2026-05-24 | 12 | 750 | 10 | 390 | 25 | 1211 |
+| 360d | 2025-11-25 | 15 | 919 | 10 | 635 | 26 | 1658 |
+| last720d | 2024-11-30 | 41 | 1879 | 10 | 1322 | 28 | 2350 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/cn-quick_start.sh) | 2.5 KiB | `other` |
-| [jumpserver-v5.1.1.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz) | 7.9 MiB | `native/unknown` |
-| [jumpserver-v5.1.1.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/jumpserver-v5.1.1.tar.gz.md5) | 32 B | `other` |
-| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.1.1/quick_start.sh) | 2.4 KiB | `other` |
+| [cn-quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.2.0/cn-quick_start.sh) | 2.5 KiB | `other` |
+| [jumpserver-v5.2.0.tar.gz](https://github.com/jumpserver/jumpserver/releases/download/v5.2.0/jumpserver-v5.2.0.tar.gz) | 20.9 MiB | `native/unknown` |
+| [jumpserver-v5.2.0.tar.gz.md5](https://github.com/jumpserver/jumpserver/releases/download/v5.2.0/jumpserver-v5.2.0.tar.gz.md5) | 32 B | `other` |
+| [quick_start.sh](https://github.com/jumpserver/jumpserver/releases/download/v5.2.0/quick_start.sh) | 2.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ jumpserver 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T08:54:51Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T08:22:13Z._
