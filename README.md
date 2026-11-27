@@ -14,14 +14,14 @@ x install jumpserver
 
 ## Code insight
 
-Total: **219,292** lines of code across **2156** files in the top 5 languages.
+Total: **222,394** lines of code across **2178** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 169,618 | 3,632 | 26,823 | 1839 |
-| JavaScript | 21,055 | 2,346 | 2,022 | 48 |
+| Python | 172,191 | 3,704 | 27,137 | 1849 |
+| JavaScript | 21,066 | 2,346 | 2,022 | 48 |
 | Css | 13,571 | 458 | 2,430 | 21 |
-| Yaml | 8,115 | 540 | 614 | 153 |
+| Yaml | 8,633 | 546 | 626 | 165 |
 | Html | 3,076 | 5 | 222 | 95 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.10.22` (2026-11-26)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 32,053 · **Forks**: 5,831 · **Open issues**: 8,181 · **Contributors**: 132
+- **Stars**: 32,057 · **Forks**: 5,829 · **Open issues**: 8,187 · **Contributors**: 132
 
 ## Totals (cumulative)
 
-- **Releases**: 278 · **Merged PRs**: 8699 · **Open PRs**: 11 · **Closed issues**: 8135 · **Open issues**: 46 · **Commits**: 14190
+- **Releases**: 278 · **Merged PRs**: 8708 · **Open PRs**: 10 · **Closed issues**: 8137 · **Open issues**: 50 · **Commits**: 14204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 5 | 175 | 9 | 78 | 37 | 247 |
-| last60d | 2026-09-27 | 8 | 332 | 11 | 151 | 38 | 466 |
-| 90d | 2026-08-28 | 9 | 487 | 11 | 244 | 39 | 714 |
-| last180d | 2026-05-30 | 14 | 768 | 11 | 395 | 43 | 1207 |
-| 360d | 2025-12-01 | 17 | 932 | 11 | 637 | 44 | 1652 |
-| last720d | 2024-12-06 | 43 | 1861 | 11 | 1322 | 46 | 2346 |
+| 30d | 2026-10-28 | 4 | 177 | 8 | 76 | 41 | 265 |
+| last60d | 2026-09-28 | 8 | 338 | 10 | 152 | 42 | 484 |
+| 90d | 2026-08-29 | 9 | 496 | 10 | 244 | 43 | 732 |
+| last180d | 2026-05-31 | 14 | 777 | 10 | 397 | 47 | 1225 |
+| 360d | 2025-12-02 | 17 | 936 | 10 | 632 | 48 | 1670 |
+| last720d | 2024-12-07 | 43 | 1870 | 10 | 1324 | 50 | 2356 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for jumpserver lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:56:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:38:43Z._
